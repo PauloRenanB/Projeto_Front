@@ -19,6 +19,7 @@ body {
     padding-top: 15px;
 }
 .imgpet1 {
+    display: flex;
     border: 5px solid rgb(219, 160, 51);
     margin-bottom: none;
 }
@@ -30,6 +31,7 @@ body {
     padding-top: 15px;
 }
 .imgpet2 {
+    display: flex;
     border: 5px solid rgb(219, 160, 51);
 }
 .txtpet2 {
@@ -40,6 +42,7 @@ body {
     padding-top: 15px;
 }
 .imgpet3 {
+    display: flex;
     border: 5px solid rgb(219, 160, 51);
 }
 .txtpet3 {
