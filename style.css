@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(247, 214, 153);
+}
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(219, 160, 51);
+    border-radius: 10px;
+    padding: none;
+}
+.adopet {
+    font-size: 25px;
+    color: rgb(255, 237, 203);
+}
+
+.pet1 {
+    display: flex;
+    padding-top: 15px;
+}
+.imgpet1 {
+    border: 5px solid rgb(219, 160, 51);
+    margin-bottom: none;
+}
+.txtpet1 {
+    padding-left: 10px;
+}
+.pet2 {
+    display: flex;
+    padding-top: 15px;
+}
+.imgpet2 {
+    border: 5px solid rgb(219, 160, 51);
+}
+.txtpet2 {
+    padding-left: 10px;
+}
+.pet3 {
+    display: flex;
+    padding-top: 15px;
+}
+.imgpet3 {
+    border: 5px solid rgb(219, 160, 51);
+}
+.txtpet3 {
+    padding-left: 10px;
+}
