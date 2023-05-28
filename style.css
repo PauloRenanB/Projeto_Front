@@ -23,6 +23,11 @@ body {
     color: rgb(255, 237, 203);
     transition: 0.3s;
 }
+.sair {
+    text-decoration: none;
+    color: rgb(255, 237, 203);
+    transition: 0.3s;
+}
 
 .contatos {
     text-decoration: none;
@@ -100,6 +105,9 @@ body {
     color: rgb(97, 66, 8);
 }
 .saiba_mais:hover {
+    color: rgb(97, 66, 8);
+}
+.sair:hover {
     color: rgb(97, 66, 8);
 }
 .main-login {
