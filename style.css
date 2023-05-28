@@ -51,6 +51,7 @@ body {
 .txtpet1 {
     padding-left: 10px;
     font-size: 30px;
+    color: rgb(190, 137, 37);
 }
 .pet2 {
     display: flex;
@@ -63,6 +64,7 @@ body {
 .txtpet2 {
     padding-left: 10px;
     font-size: 30px;
+    color: rgb(190, 137, 37);
 }
 .pet3 {
     display: flex;
@@ -75,6 +77,7 @@ body {
 .txtpet3 {
     padding-left: 10px;
     font-size: 30px;
+    color: rgb(190, 137, 37);
 }
 .cabeçalho {
     display: flex;
