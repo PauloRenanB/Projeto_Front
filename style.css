@@ -201,7 +201,7 @@ body {
     margin: auto;
 }
 
-.intro {
+.logo_sobre {
     text-align: center;
     display: block;
     justify-content: center;
@@ -211,7 +211,7 @@ body {
     padding: none;
 }
 
-.txt {
+.txt_sobre {
     width: 50%;
     margin: 50px auto;
     display: block;
@@ -221,6 +221,7 @@ body {
     color: aliceblue;
     padding: 10px;
     border-radius: 10px;
+    box-shadow: 3px 2px 2px rgb(155, 111, 29);
 }
 
 .adptt {
