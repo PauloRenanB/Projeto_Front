@@ -278,31 +278,32 @@ body {
     color: rgb(167, 120, 34);
 }
 .descpet{
-    background-color:  rgb(247, 214, 153);
+    background-color:  rgb(219, 160, 51);
     max-width: 505px;
     border-radius: 15px;
     padding: 15px;
     align-items: center;
     justify-content: center;
+    margin-top: 30px;
 
 }
 .txttyler{
     font-family: sans-serif;
     font-size: 18px;
     line-height: 5px;
-    color:  rgb(247, 162, 6);
+    color:  rgb(95, 92, 90);
 }
 .txtbelinha{
     font-family: sans-serif;
     font-size: 18px;
     line-height: 5px;
-    color:  rgb(247, 162, 6);
+    color:  rgb(95, 92, 90);
 }
 .txthannah{
     font-family: sans-serif;
     font-size: 18px;
     line-height: 5px;
-    color:  rgb(247, 162, 6);
+    color:  rgb(95, 92, 90);
 }
 .pet-info{
     color: rgb(95, 92, 90);
